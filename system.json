@@ -34,5 +34,5 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "manifest": "https://raw.githubusercontent.com/PhoebeGlimmer/exhaustion-core/main/system.json",
-  "download": "https://github.com/PhoebeGlimmer/exhaustion-core/archive/refs/tags/v0.1.zip"
+  "download": "https://github.com/PhoebeGlimmer/exhaustion-core/archive/refs/tags/v0.1.1.zip"
 }
