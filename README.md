@@ -1,3 +1,3 @@
-# Simple Worldbuilding System
+# Exhaustion Core
 
-A simple game system for Foundry VTT which allows for flexible definition of Actors and Items to assist with worldbuilding or for running games which do not have a more complete system implementation available.
+A game system for Foundry VTT that uses a universal exhaustion system instead of mana or spell slots.
